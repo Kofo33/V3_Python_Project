@@ -1,1 +1,1 @@
-# Package initialization file for cart module
+# Package initialization file for auth module
