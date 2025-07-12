@@ -1,1 +1,1 @@
-# Package initialization file for ecommerce_app
+# Package initialization file for utils module
