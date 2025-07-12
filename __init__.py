@@ -1,1 +1,1 @@
-# Package initialization file for user module
+# Package initialization file for products module
