@@ -1,1 +1,1 @@
-# Package initialization file for products module
+# Package initialization file for cart module
