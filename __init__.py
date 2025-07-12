@@ -1,1 +1,1 @@
-# Package initialization file for utils module
+# Package initialization file for user module
