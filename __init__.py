@@ -1,0 +1,1 @@
+# Package initialization file for ecommerce_app

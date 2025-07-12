@@ -1,0 +1,19 @@
+ecommerce_app/
+├── __init__.py
+├── main.py
+├── auth/
+│   ├── __init__.py
+│   ├── authentication.py
+│   └── validation.py
+├── cart/
+│   ├── __init__.py
+│   └── cart_management.py
+├── products/
+│   ├── __init__.py
+│   └── product_management.py
+├── user/
+│   ├── __init__.py
+│   └── account_management.py
+└── utils/
+    ├── __init__.py
+    └── general.py
